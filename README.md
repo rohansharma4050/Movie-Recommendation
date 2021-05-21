@@ -25,15 +25,23 @@ Deploying our recommender system
 
 * Using TMDB API,deploying our Recommendation System
 
+
+
 ![Screenshot (928)](https://user-images.githubusercontent.com/69635604/119087338-9cf7b300-ba24-11eb-8d58-7d23925de266.png)
+
 
 
 * This Recommendation has an additional feature which allows the users to have a look at the trailer of the movies directly on YouTube 
 
+
+
 ![Screenshot (926)](https://user-images.githubusercontent.com/69635604/119087476-d4fef600-ba24-11eb-8e2f-3d2baaf0bcad.png)
 
 
+
 * Along with some Trending Movies already showing up in our Recommendation System
+
+
 
 ![Screenshot (927)](https://user-images.githubusercontent.com/69635604/119087528-eb0cb680-ba24-11eb-8ded-a742874434d1.png)
 
